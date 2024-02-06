@@ -9,6 +9,7 @@ In the context of managing user profile updates, Angular Signals can be a more s
 - Real-time Profile Updates: Leveraging Signals ensures immediate reflection of user profile changes.
 - Responsive Profile Component: Employing Signal for direct data binding in our template streamlines the process. This eliminates the necessity for manual subscription management or the use of the async pipe, ensuring consistent synchronization between the UI and the profile data.
 - Streamlined State Management: Angular Signals simplifies the management of user profiles, eliminating the need to distinguish between initial and subsequent data loads—automatic reactions to Signal changes handle everything seamlessly.
+- Make it real as posible and consume external API (ei: jsonplaceholder)
 
 ## Demo
 [StackBlitz](https://stackblitz.com/~/github.com/leolanese/Angular-Signal-API-Request)
