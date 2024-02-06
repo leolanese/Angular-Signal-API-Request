@@ -2,7 +2,7 @@
 
 ## Signal instead BehaviorSubjects
 
-In the context of managing user profile updates, Angular Signals can be a more streamlined alternative to the traditional approach of using services with BehaviorSubjects.
+> In the context of managing API payload updates, Angular Signals can be a more streamlined alternative to the traditional approach of using services with BehaviorSubjects.
 
 ## Goals
 
