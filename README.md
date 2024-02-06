@@ -1,4 +1,4 @@
-# Handling Angular API-Request using Signals
+# Handling Angular (17+) API-Request using Signals
 
 ## Signal instead BehaviorSubjects
 
